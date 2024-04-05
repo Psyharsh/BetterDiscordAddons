@@ -19,4 +19,4 @@ A Series of Plugins and Themes for BetterDiscord
 Copyright (C) 2016-2023 Mirco Wittrien
 
 # WARNING!
-This repository is NOT the official one, this repository is a fork made for personal uses (in this case: for myself), so please [click here](https://github.com/mwittrien/BetterDiscordAddons/) to go to the original and official one, thank you for understanding and have a good one!
+This repository is NOT the official one, this repository is a fork made for personal uses (in this case: for myself), so if you searched for the original one and found this fork instead please [click here](https://github.com/mwittrien/BetterDiscordAddons/) to go to the original repository, thank you for understanding and have a good one!
