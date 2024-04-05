@@ -1,4 +1,4 @@
-# Check out these to support the original creator! [![Support][support-badge]][support-link] [![PayPal][paypal-badge]][paypal-link] [![Patreon][patreon-badge]][patreon-link]
+# Check out these to support the original creator! (and also their Discord server) [![Support][support-badge]][support-link] [![PayPal][paypal-badge]][paypal-link] [![Patreon][patreon-badge]][patreon-link]
 
 # [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) Addons
 
